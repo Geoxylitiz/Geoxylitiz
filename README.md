@@ -76,7 +76,7 @@ I am a passionate coder with a knack for database management, always eager to ta
 </div>
 
 Feel free to reach out! I'm always open to interesting conversations and collaborations.
-<br>
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=geoxylitiz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geoxylitiz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geoxylitiz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

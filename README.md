@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://giphy.com/gifs/motion-graphics-animated-gif-animation-KX5nwoDX97AtPvKBF6">via GIPHY" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.

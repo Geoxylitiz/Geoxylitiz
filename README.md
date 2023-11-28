@@ -23,11 +23,21 @@ I am a passionate coder with a knack for database management, always eager to ta
 - **SQL and Relational Databases 101**
   [![SQL and Relational Databases Certified](https://img.shields.io/badge/SQL_and_Relational_Databases-Certified-red)]([https://www.yourcertificationlink.com](https://courses.cognitiveclass.ai/certificates/0105bb4e05e541edb01b76151a7bfe61))
 
-## Skills
+## 💻 Skills
 
-- **Programming:** Java, Javascript
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Programming:**
+  - Java ![Java Icon](https://img.shields.io/badge/-Java-red?logo=java)
+  - Javascript ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+
+- **Databases:**
+  - IBM DB2 Cloud ![DB2 Icon](https://img.shields.io/badge/-DB2-blue?logo=ibm)
+
+- **Tools:**
+  - Lucidchart ![Lucidchart Icon](https://img.shields.io/badge/-Lucidchart-blue?logo=lucidchart)
+  - Jaspersoft Studio ![Jaspersoft Studio Icon](https://img.shields.io/badge/-Jaspersoft_Studio-green?logo=jaspersoft)
+  - Eclipse ![Eclipse Icon](https://img.shields.io/badge/-Eclipse-purple?logo=eclipse)
+  - HTML ![HTML Icon](https://img.shields.io/badge/-HTML-orange?logo=html5)
+
 
 ## Let's Connect!
 

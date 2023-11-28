@@ -18,10 +18,10 @@ I am a passionate coder with a knack for database management, always eager to ta
 )
 
 - **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
-  [![Oracle Infrastructure Certified](https://img.shields.io/badge/Oracle-Infrastructure_Certified-blue)]([https://www.yourcertificationlink.com](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB9C60D7A536E89604022960C2F578637C56A669C51F118752BD8D217CA92D95&fbclid=IwAR1SO489pwfJxLbPCQVp3kfsfDIP438HGXbosFnnL9yyDk3tV8Zl16L-ql4))
+  [![Oracle Infrastructure Certified](https://img.shields.io/badge/Oracle-Infrastructure_Certified-blue)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB9C60D7A536E89604022960C2F578637C56A669C51F118752BD8D217CA92D95&fbclid=IwAR1SO489pwfJxLbPCQVp3kfsfDIP438HGXbosFnnL9yyDk3tV8Zl16L-ql4)
 
 - **SQL and Relational Databases 101**
-  [![SQL and Relational Databases Certified](https://img.shields.io/badge/SQL_and_Relational_Databases-Certified-red)]([https://www.yourcertificationlink.com](https://courses.cognitiveclass.ai/certificates/0105bb4e05e541edb01b76151a7bfe61))
+  [![SQL and Relational Databases Certified](https://img.shields.io/badge/SQL_and_Relational_Databases-Certified-red)](https://courses.cognitiveclass.ai/certificates/0105bb4e05e541edb01b76151a7bfe61)
 
 ## 💻 Skills
 

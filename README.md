@@ -36,7 +36,11 @@ I am a passionate coder with a knack for database management, always eager to ta
 
 - **Programming:**
   - Java ![Java Icon](https://img.shields.io/badge/-Java-red?logo=java)
-  - Javascript ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+  - JavaScript ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+  - HTML ![HTML Icon](https://img.shields.io/badge/-HTML-orange?logo=html5)
+  - CSS ![CSS Icon](https://img.shields.io/badge/-CSS-blue?logo=css3)
+  - PHP ![PHP Icon](https://img.shields.io/badge/-PHP-purple?logo=php)
+ 
 
 - **Databases:**
   - IBM DB2 Cloud ![DB2 Icon](https://img.shields.io/badge/-DB2-blue?logo=ibm)

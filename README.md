@@ -4,9 +4,6 @@
 <br>
 <div align="left">
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
-  <div align="center">
-      <img src="https://i.ibb.co/D1fPtsB/Leonardo-Diffusion-XL-futuristic-city-like-cyber-punk-2077-1.jpg" alt="Leonardo-Diffusion-XL-futuristic-city-like-cyber-punk-2077-1" title="PR"  alt="PR" width="700" height="300"/>&nbsp;
-  </div>
 </div>
 <br>
 

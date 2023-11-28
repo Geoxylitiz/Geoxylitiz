@@ -70,13 +70,13 @@ I am a passionate coder with a knack for database management, always eager to ta
   <a href="facebook.com/pyke69420" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://geoxylitis.github.io" target="_blank">
+  <a href="https:github.com/geoxylitiz" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
 Feel free to reach out! I'm always open to interesting conversations and collaborations.
-
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=geoxylitiz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geoxylitiz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geoxylitiz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

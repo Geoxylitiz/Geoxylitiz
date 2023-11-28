@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Patrick+Reyes!;" />
 </h1>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100](https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif"/>
+<div align="center">
+  <img src="https://media.giphy.com/media/KX5nwoDX97AtPvKBF6/giphy.gif" width="600" height="300"/>
 </div>
 
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.

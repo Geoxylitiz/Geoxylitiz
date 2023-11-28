@@ -16,15 +16,15 @@ I am a passionate coder with a knack for database management, always eager to ta
   [![Oracle AI Certified](https://img.shields.io/badge/Oracle-AI_Certified-orange)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=60E8C74A5A91D820CCD8649811F4C9011192EEEB4A57231FEF721CAD0C5662FD&fbclid=IwAR3pk5DpcBa0ILDoe2sO1Q3NzmLi5_znDqrXHD6S1ToPmkmMaNPNVJ33CiQ)
 
 
-- **Oracle Cloud Data Management 2023 Certified Foundations Associate**
-  [![Oracle Data Management Certified](https://img.shields.io/badge/Oracle-Data_Management_Certified-brightgreen)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=502A4682B3C80A8DB8D86FBBF285A5B9DD8A6DA590BD16E1606DF9F58E321DAB&fbclid=IwAR27wtdjW0QbgJOugslrdx4RWtoAfJr4WaIY2ImG4A2dkj58c9C33tGjJ_Q
-)
+- [**Oracle Cloud Data Management 2023 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=502A4682B3C80A8DB8D86FBBF285A5B9DD8A6DA590BD16E1606DF9F58E321DAB&fbclid=IwAR27wtdjW0QbgJOugslrdx4RWtoAfJr4WaIY2ImG4A2dkj58c9C33tGjJ_Q)
+  [![Oracle Data Management Certified](https://img.shields.io/badge/Oracle-Data_Management_Certified-brightgreen)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=502A4682B3C80A8DB8D86FBBF285A5B9DD8A6DA590BD16E1606DF9F58E321DAB&fbclid=IwAR27wtdjW0QbgJOugslrdx4RWtoAfJr4WaIY2ImG4A2dkj58c9C33tGjJ_Q)
 
-- **Oracle Cloud Infrastructure 2023 Certified Foundations Associate**
+- [**Oracle Cloud Infrastructure 2023 Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB9C60D7A536E89604022960C2F578637C56A669C51F118752BD8D217CA92D95&fbclid=IwAR1SO489pwfJxLbPCQVp3kfsfDIP438HGXbosFnnL9yyDk3tV8Zl16L-ql4)
   [![Oracle Infrastructure Certified](https://img.shields.io/badge/Oracle-Infrastructure_Certified-blue)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CB9C60D7A536E89604022960C2F578637C56A669C51F118752BD8D217CA92D95&fbclid=IwAR1SO489pwfJxLbPCQVp3kfsfDIP438HGXbosFnnL9yyDk3tV8Zl16L-ql4)
 
-- **SQL and Relational Databases 101**
+- [**SQL and Relational Databases 101**](https://courses.cognitiveclass.ai/certificates/0105bb4e05e541edb01b76151a7bfe61)
   [![SQL and Relational Databases Certified](https://img.shields.io/badge/SQL_and_Relational_Databases-Certified-red)](https://courses.cognitiveclass.ai/certificates/0105bb4e05e541edb01b76151a7bfe61)
+
 
 ## 💻 Skills
 

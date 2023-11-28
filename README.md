@@ -32,11 +32,11 @@ I am a passionate coder with a knack for database management, always eager to ta
 ## 💻 Skills
 
 - **Programming:**
-  - Java ![Java Icon](https://img.shields.io/badge/-Java-red?logo=java)
-  - JavaScript ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
-  - HTML ![HTML Icon](https://img.shields.io/badge/-HTML-orange?logo=html5)
-  - CSS ![CSS Icon](https://img.shields.io/badge/-CSS-blue?logo=css3)
-  - PHP ![PHP Icon](https://img.shields.io/badge/-PHP-purple?logo=php)
+  -  ![Java Icon](https://img.shields.io/badge/-Java-red?logo=java)
+  -  ![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+  -  ![HTML Icon](https://img.shields.io/badge/-HTML-orange?logo=html5)
+  -  ![CSS Icon](https://img.shields.io/badge/-CSS-blue?logo=css3)
+  -  ![PHP Icon](https://img.shields.io/badge/-PHP-purple?logo=php)
  
 
 - **Databases:**

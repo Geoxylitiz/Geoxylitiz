@@ -4,6 +4,7 @@
 <br>
 <div align="left">
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
+  <div align="right">pepe</div>
 </div>
 <br>
 

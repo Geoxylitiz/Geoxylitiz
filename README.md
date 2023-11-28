@@ -5,7 +5,7 @@
 <div align="left">
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
   <div align="right">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXg-CYNNOlk2MA_vZ43cKEPImnoJZVFkdKRr23XrEBA&s" title="PR"  alt="PR" width="40" height="40"/>&nbsp;
   </div>
 </div>
 <br>

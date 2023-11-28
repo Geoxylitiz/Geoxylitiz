@@ -2,7 +2,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Patrick+Reyes!;" /></h1>
 
 <br>
-<div align="left" color="red>
+<div align="left">
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
   <div align="right">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyXg-CYNNOlk2MA_vZ43cKEPImnoJZVFkdKRr23XrEBA&s" title="PR"  alt="PR" width="70" height="50"/>&nbsp;

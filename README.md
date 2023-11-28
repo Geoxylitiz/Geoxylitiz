@@ -1,4 +1,3 @@
-<p align="center"><a href="https://github.com/geoxylitiz"><img width="80%" alt="PATRICK REYES" src="./assets/gh-readme-header.png" /></a></p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Patrick+Reyes!;" />

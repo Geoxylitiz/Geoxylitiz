@@ -2,8 +2,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Patrick+Reyes!;" />
 </h1>
 
-<div align="left">
-  <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="300" height="300"/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
 <div></div>

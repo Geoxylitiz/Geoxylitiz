@@ -6,6 +6,8 @@
   <img src="https://media.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="300" height="300"/>
 </div>
 
+
+
 I am a passionate coder with a knack for database management, always eager to tackle complex problems and create elegant solutions. My journey in the tech world began when I enrolled in the BS Information Technology program.
 
 ## Education

@@ -45,7 +45,7 @@ I am a passionate coder with a knack for database management, always eager to ta
 
 ## Let's Connect!
 
-<div align="center"> 
+<div align="left"> 
   <a href="https://patrickbayawak258@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -56,10 +56,12 @@ I am a passionate coder with a knack for database management, always eager to ta
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<div align="center>
-Feel free to reach out! I'm always open to interesting conversations and collaborations.
+
+
+
+<div>
+  
 </div>
-<br/>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=geoxylitiz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>

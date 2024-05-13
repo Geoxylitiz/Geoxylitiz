@@ -14,6 +14,7 @@ I am a passionate coder with a knack for database management, always eager to ta
   *2021-Present*
 
 ## Certifications
+- [**NoSQL and DBaaS 101**](https://courses.cognitiveclass.ai/certificates/7eb08c1581264f26bfae23c87b7b3602)
 
 - [**Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate**](https://catalog-education.oracle.com/pls/certview/sharebadge?id=60E8C74A5A91D820CCD8649811F4C9011192EEEB4A57231FEF721CAD0C5662FD&fbclid=IwAR3pk5DpcBa0ILDoe2sO1Q3NzmLi5_znDqrXHD6S1ToPmkmMaNPNVJ33CiQ)
   

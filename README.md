@@ -1,5 +1,5 @@
 
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Patrick+Reyes!;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Patrick+Oliver!;" /></h1>
 
 <br>
 <div align="left">
@@ -11,7 +11,7 @@ I am a passionate coder with a knack for database management, always eager to ta
 
 - **BS Information Technology**
   [New Era University](https://www.neu.edu.ph/)
-  *2021-Present*
+  *2022-Present*
 
 ## Certifications
 - [**NoSQL and DBaaS 101**](https://courses.cognitiveclass.ai/certificates/7eb08c1581264f26bfae23c87b7b3602)

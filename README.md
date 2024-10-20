@@ -14,7 +14,7 @@ I am a passionate coder with a knack for database management, always eager to ta
   *2022-Present*
 
 ## Certifications
--- [**CISCO ETHICAL HACKER**](https://www.credly.com/badges/b4ffa3ca-3019-4598-b3a3-9013fb0249fa/public_url)
+- [**CISCO ETHICAL HACKER**](https://www.credly.com/badges/b4ffa3ca-3019-4598-b3a3-9013fb0249fa/public_url)
 
 - [**NoSQL and DBaaS 101**](https://courses.cognitiveclass.ai/certificates/7eb08c1581264f26bfae23c87b7b3602)
 

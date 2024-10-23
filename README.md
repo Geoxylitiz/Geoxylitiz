@@ -48,7 +48,7 @@ I am a passionate coder with a knack for database management, always eager to ta
 ## Let's Connect!
 
 <div align="left"> 
-  <a href="https://patrickbayawak258@gmail.com">
+  <a href="mailto:patrickbayawak258@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://facebook.com/pyke69420" target="_blank">

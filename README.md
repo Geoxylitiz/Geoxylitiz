@@ -11,7 +11,6 @@ I am a passionate coder with a knack for database management, always eager to ta
 
 - **BS Information Technology**
   [New Era University](https://www.neu.edu.ph/)
-  *2022-Present*
 
 ## Certifications
 - [**CISCO ETHICAL HACKER**](https://www.credly.com/badges/b4ffa3ca-3019-4598-b3a3-9013fb0249fa/public_url)
